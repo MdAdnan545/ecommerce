@@ -1,2 +1,2 @@
 # ecommerce
-three tire ecommerce web application
+three tier ecommerce web application
